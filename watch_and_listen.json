@@ -2,13 +2,15 @@
   { 
     "URL" : "https://youtu.be/T1jnh4L2ynQ",
     "type" : "animation",
-    "action" : "to_watch",
+    "action" : "to_watch"
   },
   {
-   "name" : "boaz cohen radio sets"
+   "name" : "boaz cohen radio sets",
    "URL" : "https://eco99fm.maariv.co.il/playlists/boazcohen/%D7%9E%D7%A9%D7%9E%D7%A8%D7%AA_%D7%9C%D7%99%D7%9C%D7%94_%D7%A2%D7%9D_%D7%91%D7%95%D7%A2%D7%96_%D7%9B%D7%94%D7%9F",
-   "URL" : "https://www.mixcloud.com/boaz_cohen/בועז-כהן-באקו-99-אףאם-משמרת-לילה-תוכנית-מלאה-57-מתאריך-26102017/"
-   "type" : "music",
+   "URL" : "https://www.mixcloud.com/boaz_cohen/בועז-כהן-באקו-99-אףאם-משמרת-לילה-תוכנית-מלאה-57-מתאריך-26102017/",
+   "URL" : "https://eco99fm.maariv.co.il/playlist/8594?t=0",
+    
+    "type" : "music",
    "action" : "to_listen",    
   },
   {
@@ -16,11 +18,21 @@
    "URL" : "https://www.kan.org.il/radio/"
    "type" : "music",
    "action" : "to_listen",    
-  }
-    {
+  },
+  {
    "name" : "hahug pocast"
    "URL" : "https://hachug.podbean.com/"
    "type" : "music",
    "action" : "to_listen",    
+  },
+  {
+   "name" : "movies blog"
+   "URL" : "https://srita.net/2021/"
+   "action" : "to_read",    
+  },
+  {
+   "name" : "about jazz"
+   "URL" : "https://www.wikiwand.com/ru/%D0%94%D0%B6%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D1%8B"
+   "action" : "to_read",    
   }
 ]
