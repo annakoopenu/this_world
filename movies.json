@@ -1,5 +1,18 @@
-{"movies":[
-  { "year":"1985", "director":"Woody Allen", name="The Purple Rose of Cairo", best_qoute="..and bring the ukulele" },
-  { "year":"2003", "director":"Jim Jarmusch", name="Coffee And Cigarettes" },
-  { "year":"1997", "director":"David Lynch", name="Lost Highway" }
-]}
+[    
+  { 
+    "year" : "1985",
+    "director" : "Woody Allen",
+    "name" : "The Purple Rose of Cairo",
+    "best_qoute" : "..and bring the ukulele" 
+  },
+  {
+    "year":"2003",
+    "director":"Jim Jarmusch",
+    "name":"Coffee And Cigarettes" 
+  },
+  {
+    "year":"1997",
+    "director":"David Lynch",
+    "name":"Lost Highway" 
+  }
+]
