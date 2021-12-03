@@ -12,8 +12,14 @@
    "action" : "to_listen",    
   },
   {
-   "name" : "radio"
+   "name" : "hm radio"
    "URL" : "https://www.kan.org.il/radio/"
+   "type" : "music",
+   "action" : "to_listen",    
+  }
+    {
+   "name" : "hahug pocast"
+   "URL" : "https://hachug.podbean.com/"
    "type" : "music",
    "action" : "to_listen",    
   }
