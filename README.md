@@ -1,5 +1,5 @@
 # Legacy
-after certain age you tend to move your attention from something like sex to something like Legacy. Films, books, ideas - i would like Sasha to get know ...
+something like liked-in-a-weight Legacy. Films, books, ideas - i know and would like to get know ...
 
 TEST
 
