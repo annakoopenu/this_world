@@ -1,4 +1,4 @@
-# Legacy
+# This world around - people, books, films, ideas
 something like liked-in-a-weight Legacy. Films, books, ideas - i know and would like to get know ...
 
 TEST
