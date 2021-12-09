@@ -13,8 +13,14 @@ except Exception as e:
 n_movies = (len(my_movies))
 
 for each_movie in my_movies:
-    print('\n --- Movie --- ' + str(n_movies) )
+    print_line = str('\n -- ') + str(n_movies) + str('-- ' )
     n_movies = n_movies - 1
+    print_line = print_line + str(each_movie['name']) + str('(') + str(each_movie['year']) + str(') ') 
+    each_movie.pop('name')
+    each_movie.pop('year')
+    print(print_line)
+    print(each_movie)
     for key, value in each_movie.items():
-        print(str(key) + ': ' + str(value))
+        print_line = print_line + str(key) + str(': ') + str(value)
 
+    print(print_line)
