@@ -1,5 +1,5 @@
 # Personal This world around - people, books, films, ideas
-something like liked-in-a-weight Legacy. Films, books, ideas - i know and would like to get know ...
+something like liked-in-a-weight world info. Films, books, ideas - i know and would like to get know ...
 
 TEST
 
