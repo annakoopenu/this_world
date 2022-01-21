@@ -1,16 +1,21 @@
 
-Given a Data Set of 100+ artists and their score - present them on screen with "soft view option"
+Given a Data Set of 100+ people and their score - present them on screen:
+ (!) sized by the score of the name
+ (2) moved a bit left or a bit right to create a free writing 
+ (3) as link to google.com/search?q=name
 
-Hard view is just a list of all data
+
+NOW-->Run test0: just a list of all data on the screen
+    For example:
+      1. Nick Cave
+      2. Salvador Dali
+      3. 
+        .
+        ,
+      100. 
 
 
-
-
-For example:
-
-1. Nick Cave
-2. Salvador Dali
-3. 
-.
-,
-100. 
+NEXT-->
+Run test1: add (!) sized by the score
+Run test2: add (2) moved a bit left or a bit right to create a free writing 
+Run test3: add (3) as link to google.com/search?q=name
